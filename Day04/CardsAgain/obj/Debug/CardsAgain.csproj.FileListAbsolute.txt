@@ -1,0 +1,6 @@
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\bin\Debug\CardsAgain.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\bin\Debug\CardsAgain.pdb
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\obj\Debug\CardsAgain.csproj.AssemblyReference.cache
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\obj\Debug\CardsAgain.csproj.CoreCompileInputs.cache
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\obj\Debug\CardsAgain.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\obj\Debug\CardsAgain.pdb

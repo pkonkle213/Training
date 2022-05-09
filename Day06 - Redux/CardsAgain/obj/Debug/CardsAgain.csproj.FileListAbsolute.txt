@@ -1,0 +1,48 @@
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\bin\Debug\CardsAgain.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\bin\Debug\CardsAgain.pdb
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\obj\Debug\CardsAgain.csproj.AssemblyReference.cache
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\obj\Debug\CardsAgain.csproj.CoreCompileInputs.cache
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\obj\Debug\CardsAgain.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day04\CardsAgain\obj\Debug\CardsAgain.pdb
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\CardsAgain.dll.config
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\CardsAgain.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\CardsAgain.pdb
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\StructureMap.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\StructureMap.Microsoft.DependencyInjection.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\StructureMap.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\StructureMap.Microsoft.DependencyInjection.pdb
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\StructureMap.Microsoft.DependencyInjection.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\obj\Debug\CardsAgain.csproj.AssemblyReference.cache
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\obj\Debug\CardsAgain.csproj.CoreCompileInputs.cache
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\obj\Debug\CardsAgain.csproj.CopyComplete
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\obj\Debug\CardsAgain.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day05\CardsAgain\obj\Debug\CardsAgain.pdb
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\CardsAgain.dll.config
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\CardsAgain.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\CardsAgain.pdb
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\StructureMap.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\StructureMap.Microsoft.DependencyInjection.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\StructureMap.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\StructureMap.Microsoft.DependencyInjection.pdb
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\StructureMap.Microsoft.DependencyInjection.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\obj\Debug\CardsAgain.csproj.AssemblyReference.cache
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\obj\Debug\CardsAgain.csproj.CoreCompileInputs.cache
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\obj\Debug\CardsAgain.csproj.CopyComplete
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\obj\Debug\CardsAgain.dll
+C:\Users\phillip.konkle\source\repos\TrainingApp\Day06 - Redux\CardsAgain\obj\Debug\CardsAgain.pdb
