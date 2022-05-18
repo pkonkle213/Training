@@ -8,6 +8,7 @@ namespace CardsAgain.Models
 {
     public class ProductCategory
     {
+        // parameter names should be camelcases (i.e. id, name)
         public ProductCategory(int Id, string Name)
         {
             CategoryId = Id;

@@ -8,6 +8,8 @@ using System.Threading.Tasks;
 
 namespace CardsAgain.DAOs
 {
+    // is this your business layer implementation?  if so... there should be absolutely zero direct database access here.
+    // all database access should be done in the database layer, and the business layer should rely on the database layer to retrieve from the database
     public class DAOLogic : ILogic
     {
         private string connection;

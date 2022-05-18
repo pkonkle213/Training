@@ -7,18 +7,24 @@ using TrainingApp.Models;
 
 namespace TrainingApp.DAOs
 {
+    // a class like this should be in a separate project
     public class DAO
     {
         private string connection = "Data Source=USC-W-CRCTV93-A;Initial Catalog=AdventureWorks2019;Integrated Security=True";
 
+        // it's best to return a more generic type. in this case, you could define IEnumerable<string> as the return type and a list (or even better, list.ToArray()) could be returned.
+        // IEnumerable returns an immutable collection, that cannot be added to
         public List<string> GetColors()
         {
             List<string> colors = new List<string>();
 
+            // I like that you capitalize SQL command/reserved words
+            // if you use the @ in front of your string, you can have a single string that spans multiple lines without needing to concatenate
             string sql = "SELECT DISTINCT Color " +
                 "FROM Production.Product " +
                 "WHERE Color IS NOT NULL";
 
+            // really nice that you're using the 'using' block (using the using is from the Department of Redundancy Department)
             using (SqlConnection conn = new SqlConnection(connection))
             {
                 conn.Open();
@@ -29,7 +35,8 @@ namespace TrainingApp.DAOs
                     {
                         while (reader.Read())
                         {
-                            colors.Add(Convert.ToString(reader["Color"]));
+                            // avoid using the Convert functions. They were implemented as a means of converting from VB 6.
+                            colors.Add(Convert.ToString(reader["Color"]));  // in this instance, I think you could just say .Add(reader["Color"].ToString()
                         }
                     }
                 }
@@ -70,7 +77,7 @@ namespace TrainingApp.DAOs
                 products.Add("No color selected");
             }
 
-
+            // avoid having excessive blank space
             return products;
         }
 

@@ -20,10 +20,19 @@ namespace TrainingApp
                 DropCategory.Items.Clear();
                 DropCategory.Items.Add("Select Category");
                 IEnumerable<ProductCategory> productCategories = ProductDAO.GetProductCategories();
+
+                // use blank lines to separate logical blocks in a method for readability
                 foreach (ProductCategory category in productCategories)
                 {
                     DropCategory.Items.Add(category.CategoryName);
                 }
+
+                // instead of adding the categories one at a time to the list, I THINK you could
+                //  - add Select Category to a new collection
+                //  - AddRange the productCategories to the collection
+                //  - set the DataSource of the dropdown to the collection (and DataBind if that is necessary)
+
+                // also you should define your dropdowns with the displayed text as you are doing AND a value - the value can then be used as a better way to know what was selected
             }
         }
 
@@ -52,6 +61,8 @@ namespace TrainingApp
             ucdiv.Visible = true;
         }
 
+
+        // always be sure to clean up any methods that end up not having any functionality in them
         protected void ProductGrid_SelectedIndexChanged(object sender, EventArgs e)
         {
 

@@ -44,9 +44,11 @@ namespace CardsAgain.DAOs
                 }
             }
 
-            return allCategories;
+            return allCategories;   // I've been told that arrays are better than lists for performance, so return allCategories.ToArray()
         }
 
+        // I find it better to group all private methods in a class at the bottom of the file, instead of interspersing public and private methods.
+        // I also like using #region statements for code organization, but I know other developers HATE #region statements lol
         private List<ProductSubCategory> GetAllSubCategories()
         {
             List<ProductSubCategory> allSubCategories = new List<ProductSubCategory>();
@@ -114,6 +116,8 @@ namespace CardsAgain.DAOs
 
         private int FindCategoryId(string categoryName)
         {
+            // better to use LINQ to limit the collection you need to iterate over.
+            // if you do GetProductCategories().Where(pc => pc.CategoryName == categoryName), you could completely eliminate the if within the loop
             foreach (ProductCategory category in GetProductCategories())
             {
                 if (category.CategoryName == categoryName)
@@ -141,7 +145,7 @@ namespace CardsAgain.DAOs
         public List<ProductSubCategory> GetProductSubcategories(string subCategoryName)
         {
             List<ProductSubCategory> subCategories = new List<ProductSubCategory>();
-            foreach (ProductSubCategory subCategory in GetAllSubCategories())
+            foreach (ProductSubCategory subCategory in GetAllSubCategories())   // GetAllSubCategories().Where(sc => sc.CategoryId == subCategoryId)
             {
                 if (subCategory.CategoryId == FindCategoryId(subCategoryName))
                 {
@@ -168,7 +172,7 @@ namespace CardsAgain.DAOs
     
         public Product GetProduct(int productId)
         {
-            foreach (Product product in GetAllProducts())
+            foreach (Product product in GetAllProducts())   // GetAllProduct().Where(pr => pr.ProductId == productId)
             {
                 if (product.ProductId == productId)
                 {
