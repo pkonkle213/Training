@@ -5,6 +5,7 @@ using System.Web;
 
 namespace TrainingApp.Models
 {
+    // not a very descriptive name for the clase
     public class WorkLoad
     {
         public DateTime StartDate { get; set; }

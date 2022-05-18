@@ -10,6 +10,7 @@ using System.Web.UI.WebControls;
 
 namespace TrainingApp
 {
+    // even for an exercise like this, name the user control to reflect what it is
     public partial class WebUserControl1 : UserControl
     {
         public IProduct ProductDAO { get; set; }

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace CardsAgain.DAOs
 {
+    // interfaces should be defined in assemblies separate from the implementing classes
     public interface ILogic
     {
         IEnumerable<ProductCategory> GetProductCategories();
